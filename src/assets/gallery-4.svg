@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600" preserveAspectRatio="xMidYMid slice">
+  <rect width="100%" height="100%" fill="#0b0b0b" />
+  <g fill="#121212">
+    <rect x="140" y="160" width="920" height="560" rx="24" />
+    <rect x="140" y="760" width="920" height="600" rx="24" />
+  </g>
+  <text x="600" y="1320" font-size="40" fill="#D4AF37" text-anchor="middle">Table Moments</text>
+</svg>
