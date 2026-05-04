@@ -1,17 +1,5 @@
 # 🍽️ Luxuro Dining
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Live Demo](https://img.shields.io/badge/demo-live-ff69b4)](https://luxuro-dining.vercel.app/)
-
-**Premium fine-dining landing page — Luxury dining, delivered.**
-
-Luxuro Dining is a responsive, elegant marketing website and demo landing page for a premium restaurant experience. Built using **React (TypeScript)**, **Vite**, and **TailwindCSS**, it showcases a modern UI with smooth animations powered by **motion/react**. The site features a parallax hero section, curated menu, delivery highlights, chef specials, testimonials, gallery, reservation form, and a fully responsive navigation bar. Visual assets include a mix of curated Unsplash imagery and custom SVGs.
-
----
-
-# 🍽️ Luxuro Dining
-
 > **Luxury dining, delivered.**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-luxuro--dining.vercel.app-black?style=for-the-badge&logo=vercel)](https://luxuro-dining.vercel.app/)
