@@ -10,23 +10,7 @@
 
 ---
 
-Luxuro Dining is a responsive, elegantly crafted marketing and demo landing page for a premium fine-dining restaurant. Built with React 19, TypeScript, Vite, TailwindCSS, and `motion/react`, it showcases rich animated sections — including a parallax hero, curated menu cards, delivery highlights, chef's specials, guest testimonials, a full-bleed photo gallery, and an interactive reservation form — all tied together with a polished, mobile-first responsive navbar. Designed to impress both guests and prospective employers, Luxuro Dining demonstrates production-quality front-end architecture in a real-world hospitality context.
-
----
-
-## 📸 Screenshots
-
-> Place screenshot images in the `docs/screenshots/` folder and update the paths below.
-
-| Section | Preview |
-|---|---|
-| **Hero / Above the Fold** | ![Hero](docs/screenshots/hero.png) |
-| **Menu & Specials** | ![Menu](docs/screenshots/menu.png) |
-| **Gallery** | ![Gallery](docs/screenshots/gallery.png) |
-| **Reservation Form** | ![Reservation](docs/screenshots/reservation.png) |
-| **Mobile View** | ![Mobile](docs/screenshots/mobile.png) |
-
-> 💡 **Recommended dimensions:** 1440 × 900px for desktop, 390 × 844px for mobile. Use [Screely](https://screely.com/) or browser DevTools for clean mockups.
+Luxuro Dining is a responsive, elegantly crafted marketing and demo landing page for a premium fine-dining restaurant. Built with React 19, TypeScript, Vite, TailwindCSS, and `motion/react`, it showcases rich animated sections, including a parallax hero, curated menu cards, delivery highlights, chef's specials, guest testimonials, a full-bleed photo gallery, and an interactive reservation form  all tied together with a polished, mobile-first responsive navbar. Designed to impress both guests and prospective employers, Luxuro Dining demonstrates production-quality front-end architecture in a real-world hospitality context.
 
 ---
 
